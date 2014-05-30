@@ -1,0 +1,14 @@
+﻿<schemes version="1.0">
+  <scheme name="current">
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.ToggleFolding" shortcut="Meta+=" />
+    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateBack" shortcut="Alt+Meta+Left" />
+    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateForward" shortcut="Alt+Meta+Right" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.NewFile" shortcut="Control+N" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.NewProject" shortcut="" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoType" shortcut="Meta+N" />
+    <binding command="MonoDevelop.Ide.Commands.SearchCommands.GotoFile" shortcut="Shift+Meta+N" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.CloseFile" shortcut="Meta+F4" />
+    <binding command="MonoDevelop.Ide.Commands.FileCommands.CloseAllFiles" shortcut="" />
+    <binding command="MonoDevelop.CSharp.ExpandCommands.ExpandSelection" shortcut="Meta+W" />
+  </scheme>
+</schemes>
